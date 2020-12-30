@@ -1,18 +1,33 @@
 body {
     background-color: rgb(228, 228, 179);
+    margin: 0px;
 }
 
 img {
     width: 250px;
-    height: 250px;
+    height: 350px;
+    text-align: center;
 }
 .about-me {
     background-color: white;
     padding: 100px 50px 100px 10px;
+    text-align: center;
 }
 
 .about-me-status {
     border-left: 50px;
-    text-align: center;
 }
 
+.col-6 {
+    margin-top: 20px;
+}
+
+
+.social-links {
+    background-color: white;
+    padding: 50px 50px 50px 50px;
+}
+
+div.media {
+    margin: 1%;
+}
