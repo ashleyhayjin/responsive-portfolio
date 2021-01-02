@@ -3,6 +3,10 @@ body {
     margin: 0px;
 }
 
+.media-top, .media-bottom {
+    text-align: center;
+    margin-left: 450px;
+}
 img {
     width: 250px;
     height: 350px;
@@ -10,7 +14,7 @@ img {
 }
 .about-me {
     background-color: white;
-    padding: 100px 50px 100px 10px;
+    padding: 50px 50px 50px 50px;
     text-align: center;
 }
 
@@ -31,3 +35,11 @@ img {
 div.media {
     margin: 1%;
 }
+
+.mr-0 {
+    height: 100px;
+    width: 100px;
+    padding: 15px;
+    margin: 10px;
+}
+
